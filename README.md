@@ -1,7 +1,7 @@
 # Hey there this is Leon's github
 
 ## Curently working on:
-♟️ A custom chess engine in C++ utilizing bit maps to make move generation really efficent. I'm hoping to use this to build a custom chess bot in the future but its taking a while 😅
+♟️ The chess engine is complete, next I'm going to be making a bot based on a mix of hueristics and machine learning and then create a web interface and put it on my website
 
 ## Currently learning
 💻 About compilers ... future program language project some day?
